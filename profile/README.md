@@ -6,14 +6,34 @@
 
 <p align="center"><b>AI로 업무를 앞서다</b></p>
 
+<p align="center"><sub><b>검증된 기술 기반</b></sub></p>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-8.4-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP 8.4" />
   <img src="https://img.shields.io/badge/CodeIgniter-4-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter 4" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/PHPStan-latest-8994BC?style=for-the-badge" alt="PHPStan" />
-  <img src="https://img.shields.io/badge/PHPUnit-tested-3776AB?style=for-the-badge" alt="PHPUnit" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/PHP-8.4+-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP 8.4+" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Bootstrap-5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap 5" />
+  <img src="https://img.shields.io/badge/MySQL-8-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL 8" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/OAuth2-3C3C3D?style=for-the-badge" alt="OAuth2" />
+  <img src="https://img.shields.io/badge/PSR-Standards-777BB4?style=for-the-badge" alt="PSR 표준" />
+  <img src="https://img.shields.io/badge/HMAC--SHA256-1E293B?style=for-the-badge" alt="HMAC-SHA256" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" alt="Groq" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/PHPUnit-3776AB?style=for-the-badge" alt="PHPUnit" />
+  <img src="https://img.shields.io/badge/PHPStan-8994BC?style=for-the-badge" alt="PHPStan" />
 </p>
 
 AIvance는 CodeIgniter 4 백엔드에 실무형 AI 자동화를 결합한 소프트웨어 솔루션 회사입니다.
@@ -26,7 +46,8 @@ AIvance는 CodeIgniter 4 백엔드에 실무형 AI 자동화를 결합한 소프
 - 비용 최적화형 AI (필요한 곳만 LLM 활용)
 - CI/CD·정적 분석 등 프로덕션 레벨 기술 스택
 
-🌐 [aivance.kr](https://aivance.kr)
+🌐 [aivance.kr](https://aivance.kr)  
+📩 [문의하기](https://aivance.kr/#contact)
 
 ## Products
 
