@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile/assets/logo-mark.svg" width="72" height="72" alt="AIvance logo" />
+  <img src="https://raw.githubusercontent.com/aivance-kr/.github/main/profile/assets/logo-mark.svg" width="72" height="72" alt="AIvance logo" />
 </p>
 
 <h1 align="center">AIvance</h1>
