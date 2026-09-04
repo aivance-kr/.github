@@ -1,6 +1,20 @@
-# AIvance
+<p align="center">
+  <img src="profile/assets/logo-mark.svg" width="72" height="72" alt="AIvance logo" />
+</p>
 
-**AI로 업무를 앞서다**
+<h1 align="center">AIvance</h1>
+
+<p align="center"><b>AI로 업무를 앞서다</b></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-8.4-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP 8.4" />
+  <img src="https://img.shields.io/badge/CodeIgniter-4-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter 4" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/PHPStan-latest-8994BC?style=for-the-badge" alt="PHPStan" />
+  <img src="https://img.shields.io/badge/PHPUnit-tested-3776AB?style=for-the-badge" alt="PHPUnit" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</p>
 
 AIvance는 CodeIgniter 4 백엔드에 실무형 AI 자동화를 결합한 소프트웨어 솔루션 회사입니다.
 의료광고 · 커머스 · 인증 · ERP · 홈페이지 등 실전 영역의 제품을 만듭니다.
@@ -34,3 +48,5 @@ AIvance는 CodeIgniter 4 백엔드에 실무형 AI 자동화를 결합한 소프
 |--------|------|
 | [aivance](https://github.com/aivance-kr/aivance) | AIvance 회사 홈페이지 |
 | [varius](https://github.com/aivance-kr/varius) | 그때그때 필요해서 만든 여러 소소한 도구 모음 |
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:1E293B&height=120&section=footer" width="100%" alt="footer wave" />
